@@ -1,3 +1,6 @@
 this is my first file I am creating online
 I am making some changes
+<<<<<<< HEAD
 something extra
+=======
+>>>>>>> 2bccad95126d481857ebc67827a8bddbfb021c7f
